@@ -14,7 +14,7 @@ Welcome to the **Machine Learning Projects Repository**! 🚀 This repository co
 
 - **Description**: A machine learning-based web application to detect whether a news article is real or fake.
 
-- **Tech Stack**: Python, Scikit-learn, Pandas, NLTK, Flask (Backend), React (Frontend)
+- **Tech Stack**: Python, Scikit-learn, Pandas, NLTK
 
 - **Dataset**: Fake News Dataset (Kaggle)
 
