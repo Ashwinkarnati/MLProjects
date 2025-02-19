@@ -12,7 +12,7 @@ Welcome to the **Machine Learning Projects Repository**! 🚀 This repository co
 ### 2. **Fake News Predictor App**
    - **Description**: A natural language processing (NLP) model to classify news articles as real or fake.
    - **Tech Stack**: Python, Scikit-learn, Pandas, NumPy, NLTK, Flask, React
-   - **Notebook**: [FAKE_NEWS_PREDICTOR.ipynb](./FAKE_NEWS_PREDICTOR.ipynb)
+   - **Notebook**: [FAKE_NEWS_PREDICTION.ipynb](./FAKE_NEWS_PREDICTION.ipynb)
 
 ### 3. **Loan Status Prediction**
    - **Description**: A machine learning model to predict whether an applicant is eligible for a loan based on various financial and demographic factors.
