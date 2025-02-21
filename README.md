@@ -38,6 +38,12 @@ Welcome to the **Machine Learning Projects Repository**! 🚀 This repository co
 - **Dataset**: Gold Price Dataset (Kaggle)
 - **Notebook**: [GOLD_PRICE_PREDICTION.ipynb](./GOLD_PRICE_PREDICTION.ipynb)
 
+### 7. **Heart Disease Prediction**
+- **Description**: A classification model that predicts the likelihood of heart disease based on patient health metrics.
+- **Tech Stack**: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Dataset**: Heart Disease Dataset (Kaggle)
+- **Notebook**: [HEART_DISEASE_PREDICTION.ipynb](./HEART_DISEASE_PREDICTION.ipynb)
+
 ---
 
 ## ⚡ Installation
