@@ -1,8 +1,8 @@
-# Machine Learning Projects Repository
+# ✨ Machine Learning Projects Repository
 
 Welcome to the **Machine Learning Projects Repository**! 🚀 This repository contains various machine learning projects covering a wide range of topics, including regression, classification, clustering, deep learning, and NLP.
 
-## 📂 Project List
+## 💂‍ Projects List
 
 ### 1. **Sonar Rock vs Mine Prediction**
 - **Description**: A binary classification model to predict whether a sonar signal corresponds to a rock or a mine.
@@ -16,27 +16,31 @@ Welcome to the **Machine Learning Projects Repository**! 🚀 This repository co
 - **Notebook**: [FAKE_NEWS_PREDICTION.ipynb](./FAKE_NEWS_PREDICTION.ipynb)
 
 ### 3. **Loan Status Prediction**
-- **Description**: A classification model to predict whether a loan applicant is eligible for a loan.
+- **Description**: Predicts whether a loan applicant is eligible for a loan based on various features.
 - **Tech Stack**: Python, Scikit-learn, Pandas, NumPy
-- **Dataset**: [Kaggle Loan Prediction Dataset](https://www.kaggle.com/ninzaami/loan-predication)
+- **Dataset**: [Kaggle Dataset](https://www.kaggle.com/datasets/ninzaami/loan-predication)
 - **Notebook**: [LOAN_STATUS_PREDICTION.ipynb](./LOAN_STATUS_PREDICTION.ipynb)
 
 ### 4. **Wine Quality Prediction**
-- **Description**: A model to predict the quality of wine based on various chemical properties.
-- **Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib, Seaborn
-- **Dataset**: Red Wine Quality Dataset
+- **Description**: Predicts the quality of wine based on various chemical properties.
+- **Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib
+- **Dataset**: Wine Quality Dataset (Kaggle)
 - **Notebook**: [WINE_QUALITY_PREDICTION.ipynb](./WINE_QUALITY_PREDICTION.ipynb)
 
 ### 5. **Car Price Prediction**
-- **Description**: A regression model using **Linear Regression** and **Lasso Regression** to predict the selling price of a used car based on various features.
+- **Description**: Predicts the resale price of a car based on factors like year, fuel type, seller type, etc.
 - **Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib, Seaborn
-- **Dataset**: Car Dataset (CSV File)
 - **Notebook**: [CAR_PRICE_PREDICTION.ipynb](./CAR_PRICE_PREDICTION.ipynb)
+
+### 6. **Gold Price Prediction**
+- **Description**: Uses historical data to predict future gold prices using machine learning models.
+- **Tech Stack**: Python, Scikit-learn, Pandas, NumPy, Matplotlib
+- **Dataset**: Gold Price Dataset (Kaggle)
+- **Notebook**: [GOLD_PRICE_PREDICTION.ipynb](./GOLD_PRICE_PREDICTION.ipynb)
 
 ---
 
 ## ⚡ Installation
-
 To run the projects locally, follow these steps:
 
 1. **Clone the Repository**:
@@ -79,7 +83,7 @@ Feel free to contribute by adding new projects or improving existing ones! Follo
 
 ---
 
-## 📜 License
+## 🐟 License
 
 This repository is licensed under the **MIT License**.
 
