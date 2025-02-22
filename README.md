@@ -39,10 +39,15 @@ Welcome to the **Machine Learning Projects Repository**! 🚀 This repository co
 - **Notebook**: [GOLD_PRICE_PREDICTION.ipynb](./GOLD_PRICE_PREDICTION.ipynb)
 
 ### 7. **Heart Disease Prediction**
-- **Description**: A classification model that predicts the likelihood of heart disease based on patient health metrics.
-- **Tech Stack**: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
-- **Dataset**: Heart Disease Dataset (Kaggle)
+- **Description**: A classification model to predict the likelihood of heart disease based on medical features.
+- **Tech Stack**: Python, Scikit-learn, Pandas, NumPy, Matplotlib
 - **Notebook**: [HEART_DISEASE_PREDICTION.ipynb](./HEART_DISEASE_PREDICTION.ipynb)
+
+### 8. **Credit Card Fraud Detection**
+- **Description**: Detects fraudulent transactions using machine learning techniques to enhance financial security.
+- **Tech Stack**: Python, Scikit-learn, Pandas, NumPy, Matplotlib
+- **Dataset**: Credit Card Fraud Dataset (Kaggle)
+- **Notebook**: [CREDIT_CARD_FRAUD_DETECTION.ipynb](./CREDIT_CARD_FRAUD_DETECTION.ipynb)
 
 ---
 
