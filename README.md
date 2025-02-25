@@ -39,19 +39,24 @@ Welcome to the **Machine Learning Projects Repository**! 🚀 This repository co
 - **Notebook**: [GOLD_PRICE_PREDICTION.ipynb](./GOLD_PRICE_PREDICTION.ipynb)
 
 ### 7. **Heart Disease Prediction**
-- **Description**: Predicts the likelihood of heart disease based on patient health data.
+- **Description**: Predicts the likelihood of heart disease based on medical data.
 - **Tech Stack**: Python, Scikit-learn, Pandas, NumPy, Matplotlib
 - **Notebook**: [HEART_DISEASE_PREDICTION.ipynb](./HEART_DISEASE_PREDICTION.ipynb)
 
 ### 8. **Credit Card Fraud Detection**
-- **Description**: Detects fraudulent transactions in credit card data using machine learning models.
-- **Tech Stack**: Python, Scikit-learn, Pandas, NumPy, Matplotlib
+- **Description**: Detects fraudulent credit card transactions using machine learning models.
+- **Tech Stack**: Python, Scikit-learn, Pandas, NumPy
 - **Notebook**: [CREDIT_CARD_FRAUD_DETECTION.ipynb](./CREDIT_CARD_FRAUD_DETECTION.ipynb)
 
 ### 9. **Medical Insurance Cost Prediction**
-- **Description**: Predicts the cost of medical insurance based on personal health factors.
+- **Description**: Predicts the cost of medical insurance based on patient details.
 - **Tech Stack**: Python, Scikit-learn, Pandas, NumPy, Matplotlib
 - **Notebook**: [MEDICAL_INSURANCE_COST_PREDICTION.ipynb](./MEDICAL_INSURANCE_COST_PREDICTION.ipynb)
+
+### 10. **Big Market Sales Prediction**
+- **Description**: Predicts sales for a big market store based on historical data and various product attributes.
+- **Tech Stack**: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Notebook**: [BIG_MARKET_SALES_PREDICTION.ipynb](./BIG_MARKET_SALES_PREDICTION.ipynb)
 
 ---
 
